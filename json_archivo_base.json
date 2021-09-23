@@ -1,0 +1,34 @@
+{
+  "Proyecto_Forja": {
+    "Captor": {
+      "Objetivo_1": {
+        "Temperatura": 25,
+        "Presion": 0.5
+      },
+      "Objetivo_2": {
+        "t_ciclo": 5,
+        "Piezas_Totales": 0,
+        "Piezas_Buenas": 0,
+        "Piezas_Malas": {
+          "malas": 0,
+          "geometria": 0,
+          "color": 0,
+          "orientacion": 0
+        }
+      },
+      "Objetivo_3": {
+        "OEE": 85
+      }
+    },
+    "Control_Remoto": {
+      "Permiso_CR": "Espera_Ini",
+      "General_Proceso": "Esperando_Ini",
+      "Prensa_Hidraulica": "Arriba",
+      "Zona_2": {
+        "Cinta": "OFF",
+        "Camara": "Mala"
+      },
+      "Prensa_mecanica": "Parada"
+    }
+  }
+}
