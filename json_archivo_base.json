@@ -5,6 +5,12 @@
         "Temperatura": 25,
         "Presion": 0.5
       },
+      "Gocator": {
+        "Agujero_1" : 0,
+        "Agujero_2" : 0,
+        "Distancia_Agujeros": 0,
+        "Ancho_Pieza": 0
+      },
       "Objetivo_2": {
         "t_ciclo": 5,
         "Piezas_Totales": 0,
